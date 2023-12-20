@@ -1,0 +1,9 @@
+HypothecaireVestiging.HonorariumNotarisHypothecaireVestigingCostItem
+
+
+
+HypothecaireVestiging.HypothecairRegistratieRechtHypothecaireVestigingCostItem
+
+
+
+HypothecaireVestiging.HypotheekRechtHypothecaireVestigingCostItem
